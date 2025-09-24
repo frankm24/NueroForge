@@ -1,0 +1,8 @@
+name: neuroforge_env
+channels:
+    - default
+dependencies:
+    - python=3.9
+    - ipywidgets
+    - pytorch
+    - tensorflow

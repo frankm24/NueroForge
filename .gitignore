@@ -1,0 +1,28 @@
+__pychache__/
+*.pyc 
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+.vscode/
+.idea/
+*.wp
+*.bak
+*.swo
+
+.ipynb_checkpoints
+profil_default/
+ipython_config.pyc
+
+*~
+*.DS_Stro #macos
+Thumbs.db #windows
